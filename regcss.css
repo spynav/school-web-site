@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+}
+.mainnavspace{
+    background-color: #aea71b;
+    width: 300px;
+    height: 760px;
+     
+    margin-top: 20px;
+    position: absolute;
+     
+ }
+ .littleboxes{
+     padding-top: 120px;
+ }
+ .littlenavspace{
+    background-color:   #ded527;
+    width: 220px;
+    height: 130px;
+    margin-left: 30px;
+    position: relative;
+      
+     border: red 2px;
+     transition: transform .2s;
+     box-shadow:#FFEAEA 2px 5px 5px;
+     
+      
+     
+    
+ }
+ .navdata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+     letter-spacing: 5px;
+     color:#fffbfb;
+     
+     
+     
+ }
+ .navimg{
+    
+     
+    margin-left: 80px;
+     padding-top: 20px;
+     
+    height:50px;
+ }
+ a{
+   text-decoration: none;
+ }
+ .littlenavspace:hover{
+   transform: scale(1.02);
+ }
+ #logo{
+   width: 120px;
+   height: 80px;
+   margin-left: 10px;
+   margin-top: 10px;
+   position: absolute;
+ }
+ #logoname{
+   margin-left: 130px;
+   margin-top: 50px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 20px;
+   letter-spacing: 10px;
+   color:rgb(7, 7, 7);
+ }
+ .navbar{
+   position: absolute;
+ }
+
+
+
+
+
+
+.maintable{
+    width: 500px;
+    margin-left: 500px;
+    height: 700px;
+    margin-top: -150px;
+    background-color: #413543;
+    position: absolute;
+     
+
+}
+.tablerow{
+     
+
+}
+.tabledata{
+
+}
+body{
+    background-color: #8F43EE;
+}
+input.big{
+    margin-left: 20px;
+    width: 310px;
+    padding-top: 10px;
+     
+}
+ #ctrs{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+input.tik{
+    margin-left: 20px;
+
+}
+.rowdata{
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(247, 247, 246, 0.684);
+    font-size: 15px;
+}
+#namesch1{
+    font-size: 500px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 0, 0, 0.645);
+    margin-top: -260px;
+ 
+     
+  }
+  .schname{
+    position: absolute;
+ 
+    margin-left: 1000px;
+    
+ 
+  }
+  #namesch2{
+    font-size: 200px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -250px;
+    margin-left: 120px;
+    color: rgb(210, 207, 202);
+
+  }.regform{
+    margin-left: 300px;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200px;
+    margin-top: -50px;
+
+
+  }
+  .ltr1{
+    margin-left: 10px;
+    font-style: oblique;
+
+  }
+  .ltr2{
+    margin-left: 40px;
+    margin-top: -150px;
+    font-size: 250px;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+
+  }
+  .ltr3{
+    margin-left: 30px;
+    margin-top: -150px;
+    font-style: oblique;
+    
+
+  }
+  #logopic{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 200px;
+  }
