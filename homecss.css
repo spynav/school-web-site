@@ -5,6 +5,7 @@
  }
  body{
     background-color: #e4a0cc;
+    overflow-y: hidden;
 
  }
  .mainnavspace{
@@ -94,11 +95,11 @@
  }
  #subphoto{
    width: 400px;
-   height: 400px;
-   margin-left: 200px;
+   height: 600px;
+   margin-left: 180px;
    position:  relative;
-   margin-top: 180px;
-   border-radius: 15px;
+   margin-top: 70px;
+  
 
  }
  .discription{
@@ -112,9 +113,12 @@
    opacity: 60%;
    
    
-   
-   
- }
+  }
+
+  #parajap{
+    margin-left: 140px;
+  }
+
  #namesch{
    font-size: 130px;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
